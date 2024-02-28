@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mr-A12k
-- 👀 I’m interested in app development
+- 👀 I’m interested in UI designing 
 - 🌱 I’m currently learning java
-- 📫 How to reach me IG @the_real_kabil
+- 📫 Reach me on IG @kabix_xii
 
 <!---
 Mr-A12k/Mr-A12k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
