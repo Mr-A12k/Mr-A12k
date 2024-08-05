@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mr-A12k
-- 👀 I’m interested in UI designing 
-- 🌱 I’m currently learning java
+- 👀 I’m interested in Learing New things 
+- 🌱 I’m currently learning Node.js
 - 📫 Reach me on IG @kabix_xii
 
 <!---
