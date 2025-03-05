@@ -42,7 +42,8 @@ You can click the Preview link to take a look at your changes.
 - 🎓 Studying at **GCE Tirunelveli**  
 - 💻 Passionate about learning new technologies and currently focusing on **Java**, **C Programming**, **MySQL**, and **PostgreSQL**  
 - 🌟 Enthusiastic about design, coding, and solving real-world problems  
-- 🎨 Skilled in crafting **intuitive UI/UX designs** that enhance user experience  
+- 🎨 Skilled in crafting **intuitive UI/UX designs** that enhance user experience
+- 📱 Currently learning **Flutter** to develop mobile applications
 
 ---
 
