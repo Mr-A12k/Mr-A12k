@@ -1,4 +1,4 @@
-<!---
+
 
 
 # 👋 Hi, I'm Arun Kapil!  
@@ -47,7 +47,10 @@
 - [LinkedIn Profile](https://www.linkedin.com/in/arun-kapil-m/)
 - [Portfolio Website](https://kabix.netlify.app/)
 
---->
+
+
+
+<!---
 
 
 # 👋 Hi, I'm Arun Kapil!  
@@ -112,3 +115,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ArunKapil)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ArunKapil)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=flat-square&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)  
+
+
+--->
