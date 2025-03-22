@@ -48,32 +48,11 @@
 - [Portfolio Website](https://kabix.netlify.app/)
 
 --->
-# <div align="center">👋 <span class="wave">Hi, I'm Arun Kapil!</span></div>  
 
-<style>
-@keyframes wave {
-  0% { transform: rotate(0deg); }
-  20% { transform: rotate(20deg); }
-  40% { transform: rotate(-10deg); }
-  60% { transform: rotate(10deg); }
-  80% { transform: rotate(-5deg); }
-  100% { transform: rotate(0deg); }
-}
-.wave {
-  display: inline-block;
-  animation: wave 1.5s infinite;
-}
-@keyframes blink {
-  50% { border-color: transparent; }
-}
-.typing {
-  display: inline-block;
-  border-right: 3px solid white;
-  animation: blink 0.7s steps(2, start) infinite;
-}
-</style>
 
-| 💼 **UI/UX Designer** | 🖥️ **Developer**  |
+# 👋 Hi, I'm Arun Kapil!  
+
+| 💼 **UI/UX Designer** | 🖥️ **Developer** |
 
 ---
 
@@ -88,10 +67,10 @@
 
 ## 🎨 Designer Skills  
 ### **UI/UX Tools**  
-- <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">  
-- <img src="https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white" alt="Adobe XD" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">  
-- <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">  
-- <img src="https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
+![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)  
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)  
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)  
 
 ### **Specializations**  
 - 🖋️ Wireframing & Prototyping  
@@ -114,7 +93,22 @@
 
 ---
 
+## 🔥 Github Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArunKapil&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArunKapil&theme=radical" />
+</p>
+
+---
+
+## 🌟 Fun Animation  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub!;I+love+UI%2FUX+Design+and+Coding!;Let's+build+something+great!+🚀" />
+</p>
+
+---
+
 ### 🌐 Connect with Me  
-- [GitHub Profile](https://github.com/Mr-A12k) 
-- [LinkedIn Profile](https://www.linkedin.com/in/arun-kapil-m/)
-- [Portfolio Website](https://kabix.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ArunKapil)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ArunKapil)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=flat-square&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)  
